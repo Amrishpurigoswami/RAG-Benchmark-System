@@ -1,0 +1,39 @@
+
+You are building a Knowledge Graph.
+
+Document Type
+
+HR case study narrative with accompanying policy document
+
+Focus on these entities:
+
+Hemant Sharma, Rakesh Malhotra, NexGen Tech Solutions Pvt. Ltd., HR Department (Ms. Ananya Verma), Leave Application, Salary Slip (January 2025), Leave & Compensation Policy Document (HRPol-2024), Performance Bonus, Loss of Pay (LOP), Casual Leave (CL), Earned Leave (EL), Bonus Exception Request (BER), Grievance Record (GRP-2025-0147)
+
+Extract these attributes:
+
+Employee ID, Designation, Department, Monthly CTC, Basic Salary, Take‑home Salary, Leave start date, Leave end date, Number of working days of leave, Leave balance (CL, EL, SL), LOP days applied, Deduction amount per LOP day, Total salary deduction, Performance bonus amount, Policy section references (e.g., 5.3, 6.2, 9.1c, 10.1), Date of leave approval, Date of salary credit, Grievance submission date, BER submission deadline, HR representative name, Manager countersignature
+
+Create relationships such as:
+
+Hemant Sharma works for NexGen Tech Solutions, Hemant Sharma reports to Rakesh Malhotra, Rakesh Malhotra approves Hemant's leave application, Leave application triggers LOP calculation according to Policy Section 5.3, LOP deduction reduces Hemant's salary as shown on Salary Slip, Performance bonus eligibility is governed by Policy Section 6.2, Medical emergency qualifies for Bonus Exception Request per Policy Section 6.2(e), Hemant submits BER and written representation to HR Department, HR Department reviews grievance and BER, then credits bonus, Policy Document defines leave types, accrual, LOP, bonus eligibility, and dispute resolution, Grievance Record links Hemant, HR Department, and policy sections cited
+
+Ignore:
+
+Narrative filler sentences, Greetings and salutations, Repeated storyline details, Non‑essential descriptive text about locations or weather
+
+Graph should prioritize:
+
+Employee (Hemant Sharma), Manager (Rakesh Malhotra), Organization (NexGen Tech Solutions), Leave Application, Leave Balance (CL, EL, SL), Loss of Pay (LOP) deduction, Performance Bonus, Policy Sections (5.3, 6.2, 9.1c, 10.1, 10.5), Bonus Exception Request (BER), Grievance/Representation Record, HR Representative (Ananya Verma)
+
+Never create entities from greetings,
+small talk,
+duplicate sentences,
+or conversational fillers.
+
+Every node must be directly supported
+by the document.
+
+Every relationship must be explicitly
+mentioned in the document.
+
+Output a clean and accurate graph.

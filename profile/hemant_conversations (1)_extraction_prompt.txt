@@ -1,0 +1,38 @@
+You are building a Knowledge Graph.
+
+Document Type
+
+Transcript/Case Study
+
+Focus on these entities:
+
+Hemant Sharma, Rakesh Malhotra, NexGen Tech Solutions Pvt. Ltd., Company Policy, Leave Request, Salary Slip, Bonus Exception Request (BER), Medical Emergency
+
+Extract these attributes:
+
+Employee ID, Designation, Basic Salary, CTC, Take-home Salary, Deduction Amount, Leave Dates, Leave Balance (CL, EL), Policy Clause Numbers, Performance Incentive Amount, Approval Status, Reference Numbers
+
+Create relationships such as:
+
+EMPLOYEE_WORKS_AT, EMPLOYEE_REPORTS_TO, SUBMITTED_LEAVE_REQUEST, APPROVED_LEAVE_REQUEST, CAUSED_SALARY_DEDUCTION, GOVERNED_BY_POLICY, INVOKED_POLICY_CLAUSE, SUBMITTED_EXCEPTION_REQUEST, ENDORSED_REQUEST, APPROVED_REQUEST
+
+Ignore:
+
+Greeting and closing pleasantries, Narrative descriptions of body language or room atmosphere, Fictional disclaimer, Repetitive confirmations of understanding, Mentions of third parties not involved in the dispute (e.g., Aryan)
+
+Graph should prioritize:
+
+Person nodes (Employee, Manager), Organization node, Document nodes (Policy, Salary Slip, Medical Records), Event nodes (Leave Application, Salary Deduction, Meetings), Policy Rule nodes (Specific clauses regarding LOP, Bonus, Exceptions), Process nodes (Bonus Exception Request)
+
+Never create entities from greetings,
+small talk,
+duplicate sentences,
+or conversational fillers.
+
+Every node must be directly supported
+by the document.
+
+Every relationship must be explicitly
+mentioned in the document.
+
+Output a clean and accurate graph.

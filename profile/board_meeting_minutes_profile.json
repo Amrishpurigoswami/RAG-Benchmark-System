@@ -1,0 +1,62 @@
+{
+    "document_type": "Board Meeting Minutes",
+    "summary": "The board meeting of TechCorp held on June 20, 2025, chaired by CEO Anjali Verma, recorded decisions on five agenda items: approval of the Q1 FY2025 financial review, status update of Project Alpha (on track for a September launch), deferral of the employee bonus policy revision, approval of a new office lease in Mumbai BKC, and approval of a diversity hiring initiative with a 25\u202flakh budget.",
+    "main_entities": [
+        "TechCorp",
+        "Board Meeting (June 20, 2025)",
+        "Anjali Verma",
+        "Rajesh Kumar",
+        "Sunita Patel",
+        "Vikram Singh",
+        "Priya Mehta",
+        "Amit Kapoor",
+        "Q1 FY2025 Financial Review",
+        "Project Alpha",
+        "Employee Bonus Policy Revision",
+        "New Office Space Lease",
+        "Diversity Hiring Initiative",
+        "Mumbai, BKC",
+        "25 Lakh budget"
+    ],
+    "important_attributes": [
+        "date",
+        "time",
+        "venue",
+        "role",
+        "position",
+        "department",
+        "status",
+        "launch_date",
+        "budget_amount",
+        "location"
+    ],
+    "important_relationships": [
+        "attended_by",
+        "chaired_by",
+        "holds_position",
+        "has_status",
+        "linked_to",
+        "located_at",
+        "has_budget",
+        "scheduled_for",
+        "approved",
+        "deferred"
+    ],
+    "ignore": [
+        "greetings",
+        "fillers",
+        "small talk",
+        "duplicate information"
+    ],
+    "graph_focus": [
+        "Meeting",
+        "Person",
+        "AgendaItem",
+        "Project",
+        "Policy",
+        "OfficeLease",
+        "Initiative",
+        "Location",
+        "Budget"
+    ]
+}

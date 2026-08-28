@@ -1,0 +1,73 @@
+{
+    "document_type": "Employee Performance Review",
+    "summary": "A performance review for Hemant Sharma covering Jan\u2013Jun 2025, rated Exceeds Expectations (4.5/5). Highlights include leading Project Alpha's core engine, mentoring two juniors, cutting system latency by 40%, earning an AWS Solutions Architect certification, and receiving the Q2 Star Performer award. Compensation recommendation is a 12% increase to a monthly CTC of 1,40,000 INR, with confirmed performance bonus eligibility and the next review scheduled for Dec 2025.",
+    "main_entities": [
+        "Hemant Sharma",
+        "EMP-2025-0042",
+        "Rajesh Kumar",
+        "Project Alpha",
+        "AWS Solutions Architect certification",
+        "Star Performer award (Q2 2025)",
+        "Compensation Increment",
+        "Proposed Monthly CTC",
+        "Performance Bonus",
+        "Review Period (Jan 2025 \u2013 June 2025)",
+        "Rating",
+        "Next Review Date"
+    ],
+    "important_attributes": [
+        "Employee Name",
+        "Employee ID",
+        "Review Period",
+        "Reviewer Name",
+        "Reviewer Role",
+        "Rating Score",
+        "Rating Description",
+        "Key Achievements",
+        "Project Involvement",
+        "Mentorship Count",
+        "System Latency Reduction Percentage",
+        "Certifications Earned",
+        "Awards Received",
+        "Recommended Compensation Increment Percentage",
+        "Proposed New Monthly CTC",
+        "Performance Bonus Eligibility",
+        "Next Review Date"
+    ],
+    "important_relationships": [
+        "Employee has Reviewer",
+        "Employee received Rating",
+        "Employee achieved Key Achievement",
+        "Employee led Project Alpha",
+        "Employee mentored Junior Engineers",
+        "Employee reduced System Latency by 40%",
+        "Employee earned AWS Solutions Architect certification",
+        "Employee received Star Performer award",
+        "Employee awarded Compensation Increment",
+        "Employee's new Monthly CTC is proposed",
+        "Employee is eligible for Performance Bonus",
+        "Employee's next review scheduled for December 2025",
+        "Reviewer evaluated Employee"
+    ],
+    "ignore": [
+        "Greetings",
+        "Fillers",
+        "Small talk",
+        "Duplicate statements"
+    ],
+    "graph_focus": [
+        "Employee",
+        "Reviewer",
+        "Performance Rating",
+        "Review Period",
+        "Key Achievements",
+        "Project",
+        "Mentorship",
+        "System Performance Metrics",
+        "Certification",
+        "Award",
+        "Compensation Details",
+        "Bonus Eligibility",
+        "Next Review Date"
+    ]
+}

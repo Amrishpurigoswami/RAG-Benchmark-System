@@ -1,0 +1,39 @@
+
+You are building a Knowledge Graph.
+
+Document Type
+
+Employee Performance Review
+
+Focus on these entities:
+
+Hemant Sharma, EMP-2025-0042, Rajesh Kumar, Project Alpha, AWS Solutions Architect certification, Star Performer award (Q2 2025), Compensation Increment, Proposed Monthly CTC, Performance Bonus, Review Period (Jan 2025 – June 2025), Rating, Next Review Date
+
+Extract these attributes:
+
+Employee Name, Employee ID, Review Period, Reviewer Name, Reviewer Role, Rating Score, Rating Description, Key Achievements, Project Involvement, Mentorship Count, System Latency Reduction Percentage, Certifications Earned, Awards Received, Recommended Compensation Increment Percentage, Proposed New Monthly CTC, Performance Bonus Eligibility, Next Review Date
+
+Create relationships such as:
+
+Employee has Reviewer, Employee received Rating, Employee achieved Key Achievement, Employee led Project Alpha, Employee mentored Junior Engineers, Employee reduced System Latency by 40%, Employee earned AWS Solutions Architect certification, Employee received Star Performer award, Employee awarded Compensation Increment, Employee's new Monthly CTC is proposed, Employee is eligible for Performance Bonus, Employee's next review scheduled for December 2025, Reviewer evaluated Employee
+
+Ignore:
+
+Greetings, Fillers, Small talk, Duplicate statements
+
+Graph should prioritize:
+
+Employee, Reviewer, Performance Rating, Review Period, Key Achievements, Project, Mentorship, System Performance Metrics, Certification, Award, Compensation Details, Bonus Eligibility, Next Review Date
+
+Never create entities from greetings,
+small talk,
+duplicate sentences,
+or conversational fillers.
+
+Every node must be directly supported
+by the document.
+
+Every relationship must be explicitly
+mentioned in the document.
+
+Output a clean and accurate graph.

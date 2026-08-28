@@ -1,0 +1,38 @@
+You are building a Knowledge Graph.
+
+Document Type
+
+Board Meeting Minutes
+
+Focus on these entities:
+
+TechCorp, Board Meeting (June 20, 2025), Anjali Verma, Rajesh Kumar, Sunita Patel, Vikram Singh, Priya Mehta, Amit Kapoor, Q1 FY2025 Financial Review, Project Alpha, Employee Bonus Policy Revision, New Office Space Lease, Diversity Hiring Initiative, Mumbai, BKC, 25 Lakh budget
+
+Extract these attributes:
+
+date, time, venue, role, position, department, status, launch_date, budget_amount, location
+
+Create relationships such as:
+
+attended_by, chaired_by, holds_position, has_status, linked_to, located_at, has_budget, scheduled_for, approved, deferred
+
+Ignore:
+
+greetings, fillers, small talk, duplicate information
+
+Graph should prioritize:
+
+Meeting, Person, AgendaItem, Project, Policy, OfficeLease, Initiative, Location, Budget
+
+Never create entities from greetings,
+small talk,
+duplicate sentences,
+or conversational fillers.
+
+Every node must be directly supported
+by the document.
+
+Every relationship must be explicitly
+mentioned in the document.
+
+Output a clean and accurate graph.

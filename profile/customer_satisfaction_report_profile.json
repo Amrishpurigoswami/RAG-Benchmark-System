@@ -1,0 +1,67 @@
+{
+    "document_type": "Customer Satisfaction Report",
+    "summary": "The Q2 FY2025 Customer Satisfaction Report, prepared by the Customer Success Team, compares key performance metrics (NPS, CSAT, resolution time, first response time, ticket volume) against Q1 FY2025, showing improvements in most areas. It also lists the top four customer complaints with the number of reports for each.",
+    "main_entities": [
+        "Customer Satisfaction Report",
+        "Customer Success Team",
+        "Q2 FY2025",
+        "Q1 FY2025",
+        "NPS Score",
+        "CSAT Score",
+        "Resolution Time",
+        "First Response Time",
+        "Ticket Volume",
+        "Mobile app crashes on Android 14",
+        "API rate limiting too restrictive",
+        "Invoice generation delays",
+        "Lack of offline mode"
+    ],
+    "important_attributes": [
+        "Score value (e.g., 72, 4.6/5)",
+        "Change value (e.g., +4, +0.2, -17.6%)",
+        "Time duration (e.g., 4.2 hrs, 1.8 hrs)",
+        "Ticket count (e.g., 1,247)",
+        "Number of complaint reports (e.g., 23 reports)",
+        "Survey period dates (April \u2014 June 2025)"
+    ],
+    "important_relationships": [
+        {
+            "subject": "Metric",
+            "predicate": "has value in",
+            "object": "Period"
+        },
+        {
+            "subject": "Metric",
+            "predicate": "changed by",
+            "object": "Change"
+        },
+        {
+            "subject": "Complaint",
+            "predicate": "received",
+            "object": "Number of reports"
+        },
+        {
+            "subject": "Customer Satisfaction Report",
+            "predicate": "prepared by",
+            "object": "Customer Success Team"
+        },
+        {
+            "subject": "Metric",
+            "predicate": "compared to",
+            "object": "Previous period metric"
+        }
+    ],
+    "ignore": [
+        "greetings",
+        "fillers",
+        "small talk",
+        "duplicate information"
+    ],
+    "graph_focus": [
+        "Performance metrics (NPS, CSAT, resolution time, first response time, ticket volume)",
+        "Time periods (Q2 FY2025, Q1 FY2025)",
+        "Change percentages",
+        "Top customer complaints and their report counts",
+        "Prepared by entity (Customer Success Team)"
+    ]
+}

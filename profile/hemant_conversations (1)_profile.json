@@ -1,0 +1,55 @@
+{
+    "document_type": "Transcript/Case Study",
+    "summary": "Hemant Sharma, an Assistant Project Manager at NexGen Tech Solutions, disputes a salary deduction following approved emergency leave. His manager Rakesh Malhotra explains the calculation based on company policy regarding Leave Without Pay (LOP) and performance incentives. Hemant subsequently invokes a specific policy clause for a Bonus Exception Request due to a medical emergency, resulting in the recovery of the withheld bonus.",
+    "main_entities": [
+        "Hemant Sharma",
+        "Rakesh Malhotra",
+        "NexGen Tech Solutions Pvt. Ltd.",
+        "Company Policy",
+        "Leave Request",
+        "Salary Slip",
+        "Bonus Exception Request (BER)",
+        "Medical Emergency"
+    ],
+    "important_attributes": [
+        "Employee ID",
+        "Designation",
+        "Basic Salary",
+        "CTC",
+        "Take-home Salary",
+        "Deduction Amount",
+        "Leave Dates",
+        "Leave Balance (CL, EL)",
+        "Policy Clause Numbers",
+        "Performance Incentive Amount",
+        "Approval Status",
+        "Reference Numbers"
+    ],
+    "important_relationships": [
+        "EMPLOYEE_WORKS_AT",
+        "EMPLOYEE_REPORTS_TO",
+        "SUBMITTED_LEAVE_REQUEST",
+        "APPROVED_LEAVE_REQUEST",
+        "CAUSED_SALARY_DEDUCTION",
+        "GOVERNED_BY_POLICY",
+        "INVOKED_POLICY_CLAUSE",
+        "SUBMITTED_EXCEPTION_REQUEST",
+        "ENDORSED_REQUEST",
+        "APPROVED_REQUEST"
+    ],
+    "ignore": [
+        "Greeting and closing pleasantries",
+        "Narrative descriptions of body language or room atmosphere",
+        "Fictional disclaimer",
+        "Repetitive confirmations of understanding",
+        "Mentions of third parties not involved in the dispute (e.g., Aryan)"
+    ],
+    "graph_focus": [
+        "Person nodes (Employee, Manager)",
+        "Organization node",
+        "Document nodes (Policy, Salary Slip, Medical Records)",
+        "Event nodes (Leave Application, Salary Deduction, Meetings)",
+        "Policy Rule nodes (Specific clauses regarding LOP, Bonus, Exceptions)",
+        "Process nodes (Bonus Exception Request)"
+    ]
+}
