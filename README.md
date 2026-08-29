@@ -226,7 +226,9 @@ The project also includes technical report materials in the root workspace, such
 
 Leave us a star 🌟 if you like our project. Thank you!  
 <p align="center">
-  <video src="./data/0120.mp4" width="900" controls></video>
+  <a href="./data/0120.mp4">
+    <img src="./data/0120.mp4" alt="RAG Benchmark System demo video" width="900" />
+  </a>
 </p>
 
 ## License
