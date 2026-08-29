@@ -179,7 +179,7 @@ This demonstrates the benchmarking pattern used by the repository: run the same 
 </p>
 
 <p align="center">
-  <img src="./data/9.png" alt="Project diagram 3" width="300" />
+  <img src="./data/9.png" alt="Project diagram 3" width="350" />
   <img src="./data/9.1.png" alt="Project diagram 4" width="300" />
 </p>
 
@@ -223,9 +223,7 @@ The project also includes technical report materials in the root workspace, such
 
 ---
 # ⭐ Support Us
-<p>
-  <img src="https://github.com/user-attachments/assets/40b2bffc-1cc4-4b51-a2a5-42588ca9d163" width="80%">
-</p>
+https://github.com/user-attachments/assets/40b2bffc-1cc4-4b51-a2a5-42588ca9d163
 Leave us a star 🌟 if you like our project. Thank you! 
 
 ## License
