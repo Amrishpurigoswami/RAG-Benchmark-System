@@ -1,7 +1,7 @@
 # RAG Benchmark System
 
 <p align="center">
-  <img src="./rag_benchmark_flow.png" alt="RAG Benchmark System overview" width="900" />
+  <img src="./data/111.png" alt="RAG Benchmark System overview" width="900" />
 </p>
 
 A benchmark and comparison framework for evaluating multiple Retrieval-Augmented Generation (RAG) architectures on the same dataset, using the same documents, question set, and answer-evaluation workflow.
@@ -197,11 +197,15 @@ The project also includes technical report materials in the root workspace, such
 
 ---
 
-## Contact
+### Connect with Me
 
-- Email: amrishpurigoswami4@gmail.com
-- LinkedIn: https://www.linkedin.com/in/amrish-puri-goswami-145b7927a/
-- GitHub: https://github.com/Amrishpurigoswami/RAG-Benchmark-System
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrishpurigoswami4@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrish-puri-goswami-145b7927a/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amrishpurigoswami/RAG-Benchmark-System)&nbsp;
+
+</div>
 
 ---
 
