@@ -21,7 +21,9 @@ The goal is to study how each architecture behaves under different question type
 ---
 
 ## Overview
-
+<p align="center">
+  <img src="./data/112;.png" alt="RAG Benchmark System overview" width="900" />
+</p>
 This project is built to benchmark how different retrieval strategies perform on enterprise-style documents such as:
 
 - HR policy documents
