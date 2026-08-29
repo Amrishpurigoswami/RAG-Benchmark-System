@@ -47,7 +47,9 @@ The benchmark uses a central vector database, LLM-based generation, and modular 
 - Multimodal/PageIndex-aware retrieval workflow
 - Centralized configuration and model selection
 - Terminal-driven and script-driven evaluation workflow
-
+<p align="center">
+  <img src="./data/113;.png" alt="RAG Benchmark System overview" width="900" />
+</p>
 ---
 
 ## Repository Structure
