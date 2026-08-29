@@ -224,7 +224,7 @@ The project also includes technical report materials in the root workspace, such
 ---
 # ⭐ Support Us
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/40b2bffc-1cc4-4b51-a2a5-42588ca9d163" width="900" controls></video>
+  <img src="./data/0120.gif" alt="RAG Benchmark System demo" width="900" />
 </p>
 Leave us a star 🌟 if you like our project. Thank you! 
 
