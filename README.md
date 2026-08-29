@@ -223,7 +223,9 @@ The project also includes technical report materials in the root workspace, such
 
 ---
 # ⭐ Support Us
-https://github.com/user-attachments/assets/40b2bffc-1cc4-4b51-a2a5-42588ca9d163
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/40b2bffc-1cc4-4b51-a2a5-42588ca9d163" width="900" controls></video>
+</p>
 Leave us a star 🌟 if you like our project. Thank you! 
 
 ## License
