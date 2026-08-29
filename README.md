@@ -174,13 +174,13 @@ This demonstrates the benchmarking pattern used by the repository: run the same 
 ## Project Images
 
 <p align="center">
-  <img src="./data/3.png" alt="Project diagram 1" width="420" />
-  <img src="./data/5.png" alt="Project diagram 2" width="420" />
+  <img src="./data/3.png" alt="Project diagram 1" width="300" />
+  <img src="./data/5.png" alt="Project diagram 2" width="300" />
 </p>
 
 <p align="center">
-  <img src="./data/9.png" alt="Project diagram 3" width="420" />
-  <img src="./data/9.1.png" alt="Project diagram 4" width="420" />
+  <img src="./data/9.png" alt="Project diagram 3" width="300" />
+  <img src="./data/9.1.png" alt="Project diagram 4" width="300" />
 </p>
 
 These visual assets illustrate the overall architecture, retrieval flow, and benchmarking structure used in this repository.
@@ -223,13 +223,10 @@ The project also includes technical report materials in the root workspace, such
 
 ---
 # ⭐ Support Us
-
-Leave us a star 🌟 if you like our project. Thank you!  
-<p align="center">
-  <a href="./data/0120.mp4">
-    <img src="./data/0120.mp4" alt="RAG Benchmark System demo video" width="900" />
-  </a>
+<p>
+  <img src="https://github.com/user-attachments/assets/40b2bffc-1cc4-4b51-a2a5-42588ca9d163" width="80%">
 </p>
+Leave us a star 🌟 if you like our project. Thank you! 
 
 ## License
 
