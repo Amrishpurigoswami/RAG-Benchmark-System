@@ -22,7 +22,7 @@ The goal is to study how each architecture behaves under different question type
 
 ## Overview
 <p align="center">
-  <img src="./data/112;.png" alt="RAG Benchmark System overview" width="900" />
+  <img src="./data/112.png" alt="RAG Benchmark System overview" width="900" />
 </p>
 This project is built to benchmark how different retrieval strategies perform on enterprise-style documents such as:
 
@@ -48,7 +48,7 @@ The benchmark uses a central vector database, LLM-based generation, and modular 
 - Centralized configuration and model selection
 - Terminal-driven and script-driven evaluation workflow
 <p align="center">
-  <img src="./data/113;.png" alt="RAG Benchmark System overview" width="900" />
+  <img src="./data/113.png" alt="RAG Benchmark System overview" width="900" />
 </p>
 ---
 
