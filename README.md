@@ -22,7 +22,7 @@ The goal is to study how each architecture behaves under different question type
 
 ## Overview
 <p align="center">
-  <img src="./data/112.png" alt="RAG Benchmark System overview" width="900" />
+  <img src="./data/112;.png" alt="RAG Benchmark System overview" width="900" />
 </p>
 This project is built to benchmark how different retrieval strategies perform on enterprise-style documents such as:
 
@@ -81,7 +81,9 @@ RAG-Benchmark-System/
 ---
 
 ## Main Project Modules
-
+<p align="center">
+  <img src="./data/114.png" alt="RAG Benchmark System overview" width="900" />
+</p>
 ### Core application and evaluation
 
 - [app.py](app.py) — main command-line interface for running RAG variants and building the vector database
@@ -110,7 +112,9 @@ RAG-Benchmark-System/
 ---
 
 ## RAG Architectures Included
-
+<p align="center">
+  <img src="./data/118.png" alt="RAG Benchmark System overview" width="900" />
+</p>
 ### 1. Simple RAG
 
 The baseline approach: query the vector store, pull the nearest matching chunks, and generate an answer from the retrieved context.
@@ -138,7 +142,9 @@ Builds a structured knowledge graph from the documents and answers using graph f
 ### 7. Multimodal RAG / PageIndex
 
 Combines text, section structure, and multimodal information for more context-aware execution over more complex documents.
-
+<p align="center">
+  <img src="./data/115.png" alt="RAG Benchmark System overview" width="900" />
+</p>
 ---
 
 ## Example Workflow
