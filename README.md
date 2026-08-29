@@ -164,7 +164,9 @@ fusion_result = fusion.ask(question)
 print(simple_result["answer"])
 print(fusion_result["answer"])
 ```
-
+<p align="center">
+  <img src="./data/117.png" alt="RAG Benchmark System overview" width="900" />
+</p>
 This demonstrates the benchmarking pattern used by the repository: run the same question through multiple RAG pipelines and compare the quality of retrieval, context, and final answer.
 
 ---
@@ -172,13 +174,13 @@ This demonstrates the benchmarking pattern used by the repository: run the same 
 ## Project Images
 
 <p align="center">
-  <img src="./1.png" alt="Project diagram 1" width="420" />
-  <img src="./3.png" alt="Project diagram 2" width="420" />
+  <img src="./data/3.png" alt="Project diagram 1" width="420" />
+  <img src="./data/5.png" alt="Project diagram 2" width="420" />
 </p>
 
 <p align="center">
-  <img src="./5.png" alt="Project diagram 3" width="420" />
-  <img src="./9.png" alt="Project diagram 4" width="420" />
+  <img src="./data/9.png" alt="Project diagram 3" width="420" />
+  <img src="./data/9.1.png" alt="Project diagram 4" width="420" />
 </p>
 
 These visual assets illustrate the overall architecture, retrieval flow, and benchmarking structure used in this repository.
@@ -204,7 +206,9 @@ The project also includes technical report materials in the root workspace, such
 - [123.txt](123.txt) — technical report draft and documentation
 - [flow_diagram.html](flow_diagram.html) — HTML flow diagram view
 - [outputs](outputs) — results and benchmark outputs
-
+<p align="center">
+  <img src="./data/119.png" alt="RAG Benchmark System overview" width="900" />
+</p>
 ---
 
 ### Connect with Me
@@ -218,6 +222,12 @@ The project also includes technical report materials in the root workspace, such
 </div>
 
 ---
+# ⭐ Support Us
+
+Leave us a star 🌟 if you like our project. Thank you!  
+<p align="center">
+  <video src="./data/0120.mp4" width="900" controls></video>
+</p>
 
 ## License
 
