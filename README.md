@@ -179,7 +179,7 @@ This demonstrates the benchmarking pattern used by the repository: run the same 
 </p>
 
 <p align="center">
-  <img src="./data/9.png" alt="Project diagram 3" width="350" />
+  <img src="./data/9.png" alt="Project diagram 3" width="310" />
   <img src="./data/9.1.png" alt="Project diagram 4" width="300" />
 </p>
 
@@ -211,6 +211,12 @@ The project also includes technical report materials in the root workspace, such
 </p>
 ---
 
+# ⭐ Support Us
+<p align="center">
+  <img src="./data/0120.gif" alt="RAG Benchmark System demo" width="900" />
+</p>
+Leave us a star 🌟 if you like our project. Thank you! 
+
 ### Connect with Me
 
 <div align="center">
@@ -222,12 +228,6 @@ The project also includes technical report materials in the root workspace, such
 </div>
 
 ---
-# ⭐ Support Us
-<p align="center">
-  <img src="./data/0120.gif" alt="RAG Benchmark System demo" width="900" />
-</p>
-Leave us a star 🌟 if you like our project. Thank you! 
-
 ## License
 
 This repository is intended for academic and project demonstration use in benchmarking and research on retrieval-augmented generation systems.
