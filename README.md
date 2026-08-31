@@ -4,9 +4,11 @@
   <img src="./data/111.png" alt="RAG Benchmark System overview" width="900" />
 </p>
 
-A benchmark and comparison framework for evaluating multiple Retrieval-Augmented Generation (RAG) architectures on the same dataset, using the same documents, question set, and answer-evaluation workflow.
+Hi everyone, I'm Amrish Puri Goswami!
 
-This repository implements and compares:
+When building RAG systems, choosing the right architecture can be tough. That’s why I built this project: a standardized benchmark framework to evaluate and compare different Retrieval-Augmented Generation architectures side-by-side using identical documents, query sets, and evaluation pipelines.
+
+In this repository, I’ve implemented and benchmarked seven different approaches:
 
 - Simple RAG
 - Fusion RAG
