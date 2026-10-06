@@ -35,6 +35,7 @@ This project is built to benchmark how different retrieval strategies perform on
 - board meeting notes
 - CloudServe vendor reports and policy material
 
+
 The benchmark uses a central vector database, LLM-based generation, and modular RAG pipeline implementations to compare outputs side-by-side on the same query set.
 
 ---
@@ -52,6 +53,7 @@ The benchmark uses a central vector database, LLM-based generation, and modular 
 <p align="center">
   <img src="./data/113.png" alt="RAG Benchmark System overview" width="900" />
 </p>
+
 ---
 
 ## Repository Structure
@@ -123,7 +125,7 @@ The baseline approach: query the vector store, pull the nearest matching chunks,
 
 ### 2. Fusion RAG
 
-Uses multiple retrieval pathways and re-ranking to combine evidence from several candidate chunks before generation.
+Uses multiple retrieval pathways and re - ranking to combine evidence from several candidate chunks before generation.
 
 ### 3. Self RAG
 
